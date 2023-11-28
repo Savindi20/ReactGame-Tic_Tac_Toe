@@ -24,6 +24,7 @@ const TicTacToe = () => {
             data[num]="o";
             setCount(++count);
         }
+        checkWin();
     }
 
     const checkWin = () => {
