@@ -3,7 +3,7 @@ import'./TicTacToe.css'
 const TicTacToe = () => {
   return (
     <div>
-      
+      <TicTacToe/>
     </div>
   )
 }
